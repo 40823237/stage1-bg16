@@ -161,7 +161,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;2021-協同產品設計實習-stage1-bg16&lt;/title&gt;
+    &lt;title&gt;stage1-bg16&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
